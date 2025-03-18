@@ -53,7 +53,7 @@ title = "ERRAN LI"
   #   { snapchat = "https://snapchat.com/add/username" },
     { soundcloud = "https://soundcloud.com/user-467056682" },
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
-  #   { steam = "https://steamcommunity.com/profiles/userid" },
+    { steam = "https://steamcommunity.com/profiles/76561198082860808/" },
   #   { telegram = "https://t.me/username" },
   #   { threads = "https://threads.net/@username" },
   #   { tiktok = "https://tiktok.com/@username" },
@@ -63,5 +63,5 @@ title = "ERRAN LI"
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
-    { xiaohongshu = "https://www.xiaohongshu.com/user/profile/61647a1b0000000002025ff6"}
+    { xiaohongshu = "https://www.xiaohongshu.com/user/profile/61647a1b0000000002025ff6" }
   ]

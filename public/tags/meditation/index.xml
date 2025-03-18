@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meditation on ERRAN LI</title>
+    <link>http://localhost:1313/tags/meditation/</link>
+    <description>Recent content in Meditation on ERRAN LI</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/meditation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sphere &amp; Anyma</title>
+      <link>http://localhost:1313/blog/post2/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Be Honest</title>
+      <link>http://localhost:1313/blog/post1/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
